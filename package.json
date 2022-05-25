@@ -1,0 +1,28 @@
+{
+  "name": "api_empinf_table",
+  "version": "1.0.0",
+  "description": "api crude operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MohamedSabry",
+  "license": "ISC",
+  "dependencies": {
+    "api_empinf_table": "file:../../../node-oracledb/node-oracledb-main/build/Release/obj/oracledb",
+    "available-versions": "^0.13.7",
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "g": "^2.0.1",
+    "nodemon": "^2.0.15",
+    "npm": "^8.3.0",
+    "oracledb": "^5.3.0",
+    "querystring": "^0.2.1",
+    "react-native-elements": "^3.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mohsabry@emp"
+  },
+  "packageManager": "yarn@3.2.0"
+}

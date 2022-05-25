@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/27acdcee-67dd-4040-ab5c-b464decb1a1f/resourceGroups/medicalSurvey-rg/providers/Microsoft.Web/sites/medicalSurveyApi",
+    "appService.deploySubpath": "."
+}
